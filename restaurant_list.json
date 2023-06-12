@@ -1,0 +1,353 @@
+[
+	{
+		"name": "GreenLeaf Bistro",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant1",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "Veggie Delight",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant2",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "The Herbivore Cafe",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant3",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "Leafy Greens Kitchen",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant4",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "Plant-Based Plate",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant5",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "The Veggie Patch",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant6",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "Garden Grub",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant7",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "Earthly Eats",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant8",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	},
+	{
+		"name": "Vegout Kitchen",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restaurant9",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "meal1"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "meal2"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "meal3"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "meal4"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "meal5"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "meal6"
+			}
+		]
+	}
+]
